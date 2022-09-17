@@ -1,0 +1,4 @@
+
+if the channel is closed by the publisher
+    and if there is a consumer consuming data ,
+        it will read all pre stored data even if the channel become empty 
